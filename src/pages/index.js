@@ -15,7 +15,7 @@ export default function Home() {
 
   return (
   <div>
-    <h1>hi</h1>
+    <h1>hi we are learning Serverless</h1>
     {data.message}
     
     </div>
